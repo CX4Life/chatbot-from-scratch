@@ -13,7 +13,7 @@ from treebot.userevents import UserEventsDao
 logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
 
 
-VERIFY_TOKEN = "CREATE_YOUR_OWN_RANDOM_VERIFY_TOKEN"
+VERIFY_TOKEN = "-NdFX77TK|#@i!hG2TGTuJ15x:06>t$q(4#/F@wrh*p#]&LSEcf#2/wu^r6D4;nsd|My4jQ/HUg$HZi2L$VRrz%Bl3X8TRL4[^p8%Y|6fsgPA@4<iIxi3%m)NdhtA^"
 ACCESS_TOKEN = "YOUR_SECRET_ACCESS_TOKEN"
 
 
