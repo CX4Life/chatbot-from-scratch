@@ -1,7 +1,7 @@
 import yaml
 
 TREE = yaml.load("""
-say: "What is the purpose of your visit? (options: travel, study, business/work, medical treatment, join family/get married, visit child at school, diplomatic/government visit)"
+say: "Are you ready to get stupid? (options: travel, study, business/work, medical treatment, join family/get married, visit child at school, diplomatic/government visit)"
 answers:
   travel:
     say: You need a Standard Visitor Visa
