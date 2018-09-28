@@ -80,7 +80,7 @@ def send_message(recipient_id, message_text, possible_answers):
 
 
 def get_postback_buttons_message(message_text, possible_answers):
-    if possible_answers is not None and len(possible_answers) <= 3:
+    if possible_answers is not None:
         buttons = []
         for answer in possible_answers:
             if len(answer) > 20:
