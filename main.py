@@ -13,7 +13,7 @@ from treebot.userevents import UserEventsDao
 logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
 
 VERIFY_TOKEN = 'this_is_a_very_good_token'
-ACCESS_TOKEN = "YOUR_SECRET_ACCESS_TOKEN"
+ACCESS_TOKEN = "EAADUZC4g6YzgBAPGWZCF8RfuSbbyC1dy6R3uyBOau5ZBW2FAWcfh4wPdtWhbTkQpPF75yLJZAfPN78QEG3UZCDCnL4tnlJXIcgZAiHZB7PWRoURwTNRvfdZAdivbTaCZAowSlZC8yMR4sqpZAoZAZCCr0nf3EmxZAKacSAbgM0Ihdst68rbQZDZD"
 
 class MainPage(webapp2.RequestHandler):
     def __init__(self, request=None, response=None):
